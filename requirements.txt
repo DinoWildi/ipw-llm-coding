@@ -6,4 +6,3 @@ pydantic
 pydantic_core
 tqdm
 typing
-re
