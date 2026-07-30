@@ -7,3 +7,4 @@ pydantic_core
 tqdm
 json
 typing
+re
