@@ -1,0 +1,9 @@
+numpy
+pandas
+ollama
+pathlib
+pydantic
+pydantic_core
+tqdm
+json
+typing
