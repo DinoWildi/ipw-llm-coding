@@ -1,0 +1,17 @@
+[
+  {
+    "negcamp": "No",
+    "certainty": 1.0,
+    "justification": "The statement focuses on promoting the candidate's qualities and policies, rather than attacking their opponents. It does not fit the definition of negative campaigning."
+  },
+  {
+    "negcamp": "Yes",
+    "certainty": 0.9,
+    "justification": "The statement directly criticizes the opponent's (Keir Starmer) abilities as a leader and suggests he is unable to solve problems, which falls under negative campaigning."
+  },
+  {
+    "negcamp": "Yes",
+    "certainty": 0.95,
+    "justification": "The statement criticizes the government's policies (Net Zero goal and associated policies) as causing significant economic harm, which is a form of negative campaigning."
+  }
+]
